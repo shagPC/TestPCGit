@@ -19,5 +19,11 @@ namespace UnitTestProject1
             chrome.FindElement(By.Id("q")).SendKeys(Keys.Enter);
             chrome.Quit();
         }
+
+        public void TestMethod2()
+        {
+            chrome = new ChromeDriver();
+            chrome.Navigate().GoToUrl("http://google.com");
+        }
     }
 }
