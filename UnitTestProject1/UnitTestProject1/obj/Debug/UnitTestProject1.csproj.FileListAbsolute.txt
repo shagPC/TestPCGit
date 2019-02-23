@@ -9,3 +9,14 @@ c:\users\квест\documents\visual studio 2015\Projects\UnitTestProject1\UnitT
 c:\users\квест\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
 c:\users\квест\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 c:\users\квест\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Test\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Test\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Test\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Test\UnitTestProject1\UnitTestProject1\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Test\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.dll
+C:\Test\UnitTestProject1\UnitTestProject1\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Test\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.xml
+C:\Test\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Test\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Test\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Test\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
