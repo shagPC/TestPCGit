@@ -18,6 +18,8 @@ namespace UnitTestProject1
             chrome.FindElement(By.Id("q")).SendKeys("Зачем нужны автотесты");
             chrome.FindElement(By.Id("q")).SendKeys(Keys.Enter);
             chrome.Quit();
+
+            Console.WriteLine("Изменения Садвокасов ДК");
         }
     }
 }
