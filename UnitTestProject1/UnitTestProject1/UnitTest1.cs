@@ -20,6 +20,8 @@ namespace UnitTestProject1
             chrome.Quit();
         }
 
+        [TestMethod]
+
         public void TestMethod2()
         {
             chrome = new ChromeDriver();
